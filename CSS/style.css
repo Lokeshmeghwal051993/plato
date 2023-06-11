@@ -1869,7 +1869,7 @@ textarea {
 
     .contact-form>input[type='email'] {
         width: 80vw;
-        margin: 5vw auto;
+        margin: 4vw auto;
 
     }
 
@@ -1891,15 +1891,15 @@ textarea {
 
     
     .contact-form>input[type='text'] {
-        width: 90vw;
+        width: 80vw;
         margin: 4vw auto;
         display:block;
 
     }
 
     .contact-form>input[type='email'] {
-        width: 90vw;
-        margin: 5vw auto;
+        width: 80vw;
+        margin: 4vw auto;
         display:block;
     }
     .address{
