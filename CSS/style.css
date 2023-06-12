@@ -951,7 +951,7 @@ section div h2:hover {
 .grid div:hover h2 {
     display: block;
     animation: grid-h2 1s ease-in-out;
-    color: white;
+    color: rgb(50, 50, 50);
 }
 
 @keyframes grid-h2 {
@@ -968,7 +968,7 @@ section div h2:hover {
 
 .grid div:hover h3 {
     display: block;
-    color: white;
+    color: rgb(50, 50, 50);
     animation: grid-h3 1s ease-in-out;
 }
 
@@ -986,7 +986,7 @@ section div h2:hover {
 
 .grid div:hover a {
     display: block;
-    color: white;
+   color: rgb(50, 50, 50);
     animation: grid-a 1s ease-in-out;
 }
 
