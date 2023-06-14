@@ -1875,7 +1875,7 @@ textarea {
 
 }
 
-@media (max-width:481px) and (max-width:768px) {
+@media (min-width:481px) and (max-width:768px) {
     .contact-1 {
         width: 90vw;
         display: flex;
@@ -1899,7 +1899,7 @@ textarea {
 
     .contact-form>input[type='email'] {
         width: 80vw;
-        margin: 4vw auto;
+        margin: 2vw auto;
         display:block;
     }
     .address{
